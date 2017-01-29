@@ -1,4 +1,4 @@
-package com.nexteon.swing.img.ui;
+package com.java.swing.img.ui;
 
 import java.awt.Dimension;
 import java.awt.FlowLayout;
@@ -12,9 +12,9 @@ import javax.imageio.ImageIO;
 import javax.swing.*;
 import javax.swing.filechooser.FileNameExtensionFilter;
 
-import com.nexteon.swing.img.ui.action.ImageFilter;
-import com.nexteon.swing.img.ui.action.ImageProcess;
-import com.nexteon.swing.img.ui.utils.Util;
+import com.java.swing.img.ui.action.ImageProcess;
+import com.java.swing.img.ui.utils.Util;
+
 /**
  * Creates swing frame with menu bar and button to process image.
  * Menu items will be Open and Exit. Process button can be

@@ -1,4 +1,4 @@
-package com.nexteon.swing.img.ui;
+package com.java.swing.img.ui;
 
 import java.awt.Dimension;
 import java.awt.FlowLayout;
@@ -16,7 +16,8 @@ import javax.swing.JLabel;
 import javax.swing.JOptionPane;
 import javax.swing.JPanel;
 
-import com.nexteon.swing.img.ui.utils.Util;
+import com.java.swing.img.ui.utils.Util;
+
 /**
  * The Result frame to display result image and option to save
  * @author prince.arora

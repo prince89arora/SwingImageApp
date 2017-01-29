@@ -1,4 +1,4 @@
-package com.nexteon.swing.img.ui.utils;
+package com.java.swing.img.ui.utils;
 
 import java.awt.Image;
 import java.awt.image.BufferedImage;

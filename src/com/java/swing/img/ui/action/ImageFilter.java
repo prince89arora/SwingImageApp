@@ -1,8 +1,9 @@
-package com.nexteon.swing.img.ui.action;
+package com.java.swing.img.ui.action;
 
 import java.io.File;
 
-import com.nexteon.swing.img.ui.utils.Util;
+import com.java.swing.img.ui.utils.Util;
+
 /**
  * @author prince.arora
  */

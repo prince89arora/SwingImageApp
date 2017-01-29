@@ -1,6 +1,6 @@
-package com.nexteon.swing.img.main;
+package com.java.swing.img.main;
 
-import com.nexteon.swing.img.ui.SwingBaseFrame;
+import com.java.swing.img.ui.SwingBaseFrame;
 
 /**
  * Main Initializer class to init Base frame
